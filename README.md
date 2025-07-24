@@ -83,7 +83,9 @@ Includes dependencies for:
    <property name="jakarta.persistence.jdbc.user" value="postgres"/>
    <property name="jakarta.persistence.jdbc.password" value="1234"/>
 
-   ## Dependencies
+
+
+ # Dependencies
 
      <dependencies>
         <!-- Hibernate Core -->
@@ -119,8 +121,7 @@ Includes dependencies for:
     <artifactId>postgresql</artifactId>
     <version>42.6.0</version> <!-- Use the latest stable version -->
 </dependency>
-
-    </dependencies>
+</dependencies>
 
 #Output:
 
